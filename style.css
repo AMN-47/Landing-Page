@@ -2,6 +2,9 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     background-color: gray;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
 ul{
@@ -13,6 +16,9 @@ ul{
 a{
     text-decoration: none;
     font-size: 22px;
+}
+ul li a:hover{
+    background-color: blue;
 }
 
 .container{
