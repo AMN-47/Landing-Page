@@ -31,3 +31,12 @@ ul li a:hover{
 .awesome{
     display: flex;
 }
+
+.awesome-div{
+    display: flex;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    justify-content: space-between;
+    align-items: center;
+}
