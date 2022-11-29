@@ -38,8 +38,15 @@ a{
     justify-content: space-between;
     align-items: center;
 }
+.awesome-main-div{
+    width: 35%;
+}
+.awesome-main-div p{
+    margin: 20px;
+    margin-left: 0px;
+}
 img{
     max-width: 100%;
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 400px;
 }
