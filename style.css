@@ -17,9 +17,7 @@ a{
     text-decoration: none;
     font-size: 22px;
 }
-ul li a:hover{
-    background-color: blue;
-}
+
 
 .container{
     display: flex;
