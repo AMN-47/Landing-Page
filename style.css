@@ -51,3 +51,28 @@ img{
     width: 500px;
     height: 400px;
 }
+.carmages{
+    width: 200px;
+}
+.DADIV{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 500px;
+}
+.DADIV .pics{
+    display: flex;
+    justify-content: space-around;
+}
+.DADIV .header-info{
+    margin: 0px auto;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.carmages:hover{
+    background-color: blue;
+}
