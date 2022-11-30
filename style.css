@@ -88,3 +88,36 @@ img{
 .carmages:hover{
     background-color: blue;
 }
+.qoute_DIV{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.qoute_DIV div{
+    width: 50%;
+}
+.qoute_DIV div span{
+    float: right;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.bluediv{
+    width: 70%;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bluediv div{
+    display: flex;
+}
+.bluediv div .signupdiv{
+    display: flex;
+    flex-direction: column;
+}
+.bluediv div div{
+    margin: 50px;
+}
