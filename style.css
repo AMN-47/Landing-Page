@@ -118,6 +118,8 @@ img{
 }
 .bluediv div{
     display: flex;
+    background-color: grey;
+    border-radius: 7px;
 }
 .bluediv div .signupdiv{
     display: flex;
@@ -125,4 +127,15 @@ img{
 }
 .bluediv div div{
     margin: 50px;
+}
+
+footer{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    align-items: flex-end;
+}
+footer span{
+    padding-bottom: 20px;
 }
