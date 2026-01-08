@@ -45,3 +45,11 @@ body{
     text-decoration: none;
     color: white;
 }
+
+.section1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space space-between;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
