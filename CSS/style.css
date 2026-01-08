@@ -37,4 +37,11 @@ body{
     padding-right: 50px;
     color: #F9FAF8;
     font-weight: 500;
+} 
+.hlink{
+    margin-right: 30px;
+}
+.h1{
+    text-decoration: none;
+    color: white;
 }
