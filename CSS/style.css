@@ -49,7 +49,34 @@ body{
 .section1{
     display: flex;
     flex-direction: row;
-    justify-content: space space-between;
+    justify-content: space-between;
     background-color: #1F2937;
     color: #F9FAF8;
+} 
+
+.s1Text{
+    width: 300px;
+    height: 255px;
+} 
+
+.s1ImgDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    width: 255px;
+    height: 255px;
+    margin-right: 35%;
+} 
+.s1img{
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+.s1h1{
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 20px;
 }
