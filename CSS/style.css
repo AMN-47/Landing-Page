@@ -170,7 +170,7 @@ body{
 
 .s4hs{
     color: #F9FAF8;
-    font-weight: 900;
+    font-weight: 600;
     font-size: 20px;
     margin-left: 20px;
 } 
@@ -186,3 +186,8 @@ body{
     margin-right: 10px;
 } 
 
+.footer{
+    display: flex;
+    justify-content: center;
+    color: #F9FAF8;
+}
