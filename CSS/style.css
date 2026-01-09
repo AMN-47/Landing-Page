@@ -150,3 +150,39 @@ body{
     font-weight: bold;
 } 
 
+.s4box{
+    width: 50%;
+    border: 1px solid rgba(0, 0, 0, 00.5);
+    min-height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #3882F6;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+} 
+
+.section4{
+    padding-top: 70px;
+} 
+
+.s4hs{
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 20px;
+} 
+
+.s4button{
+    width: 120px;
+    height: 30px;
+    background-color: #3882F6;
+    border: 1.5px solid #F9FAF8;
+    border-radius: 3px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin-right: 10px;
+} 
+
